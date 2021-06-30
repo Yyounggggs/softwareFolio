@@ -125,8 +125,6 @@
    
    - C 
    - Python
-   - Processing
-   - Arduino
    - JAVA
    
      -> 아직 SW Language가 미숙하여 지금까지 배웠던 언어를 나열.
